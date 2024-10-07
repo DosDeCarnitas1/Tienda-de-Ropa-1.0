@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Tienda de Ropa 1.0</string>
+    <string name="titulo">Tienda de Ropa 1.0</string>
+    <string name="email">Ingresa correo</string>
+    <string name="contraseña">Ingresa contraseña</string>
+    <string name="salir">Salir</string>
+    <string name="ingresar">Ingresar</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="aceptar">Aceptar</string>
+    <string name="cerrar">Cerrar sesión</string>
+
+    <!--Nosotros -->
+    <string name="nosotros">Tienda de Ropa 1.0 arranca en el año 1991 con clara vocación internacional
+        y con la intención de vestir a jóvenes comprometidos con su entorno, que viven en comunidad y se relacionan entre sí.
+        Jóvenes que visten de forma relajada, huyendo de los estereotipos y que quieren sentirse bien con lo que llevan.</string>
+
+    <!--Formulario -->
+    <string name="nombre">Nombre</string>
+    <string name="telefono">Teléfono</string>
+    <string name="correo">Correo</string>
+    <string-array name="antiguedad">
+        <item>Biker</item>
+        <item>Pantalon Bestial Club</item>
+        <item>Botas Fango</item>
+        <item>Paliacate Cowboys</item>
+        <item>Gorra Wild</item>
+        <item>Calcetines Thoro</item>
+    </string-array>
+    <string name="title_activity_menu_lateral">MenuLateralActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Sobre nosotros</string>
+    <string name="menu_gallery">Antigüedades</string>
+    <string name="menu_slideshow">Contacto</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Detalles del producto:</string>
+</resources>
